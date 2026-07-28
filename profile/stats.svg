@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Dan Sully's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 292, Total Commits  : 5260, Total PRs: 233, Total Issues: 240, Contributed to (last year): 13</desc>
+        <title id="titleId">Dan Sully&#39;s GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 292, Total Commits  : 5262, Total PRs: 233, Total Issues: 240, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.1244040566396;
+        stroke-dashoffset: 39.12288971001594;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Dan Sully's GitHub Stats</text>
+      >Dan Sully&#39;s GitHub Stats</text>
     </g>
       </g>
     
