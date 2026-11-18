@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dan Sully&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 300, Total Commits  : 6500, Total PRs: 233, Total Issues: 239, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 301, Total Commits  : 6506, Total PRs: 233, Total Issues: 239, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 38.295128029603575;
+        stroke-dashoffset: 38.25911050770172;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >300</text>
+      >301</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
